@@ -9,6 +9,6 @@ My focus areas include:
 
 I’m developing my software skills by building business automation applications, with an emphasis on clear requirements, maintainability, and usability.
 
-I welcome professional connections and discussion about manufacturing technology, automation, and independent projects using public or synthetic data.
+My interests include manufacturing technology, workflow improvement, and practical business automation.
 
-This is my personal GitHub account. Views expressed here are my own and do not represent my employer. Employer-owned code, internal applications, confidential business information, and company intellectual property are outside the scope of this public profile.
+I use GitHub for work-related learning and development focused on manufacturing and business automation. This public profile contains only general professional information. Internal applications, confidential business information, and company intellectual property are not shared here.
